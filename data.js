@@ -33,7 +33,7 @@ let directors = [{
     id: 3,
     name: "Director 3",
     age: 40
-}
+},
 {
     id: 4,
     name: "Director 4",
