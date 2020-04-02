@@ -34,6 +34,11 @@ let directors = [{
     name: "Director 3",
     age: 40
 }
+{
+    id: 4,
+    name: "Director 4",
+    age: 44
+}
 ];
 
 exports.movies = movies;
